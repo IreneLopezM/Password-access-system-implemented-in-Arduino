@@ -1,0 +1,64 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\Debug\Proyecto Prueba.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto Prueba.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto Prueba.map</FILE>
+  <FILE>Proyecto Prueba.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>29</LINE></reset>
+  <recibe><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>225</LINE></recibe>
+  <delay_100m><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>367</LINE></delay_100m>
+  <LCD><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>219</LINE></LCD>
+  <lazo><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>55</LINE></lazo>
+  <delay_10m><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>351</LINE></delay_10m>
+  <conf_LCD><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>286</LINE></conf_LCD>
+  <main><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>79</LINE></main>
+  <preguntar><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>97</LINE></preguntar>
+  <peso_fila0><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>192</LINE></peso_fila0>
+  <peso_fila1><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>195</LINE></peso_fila1>
+  <peso_fila2><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>198</LINE></peso_fila2>
+  <peso_fila3><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>201</LINE></peso_fila3>
+  <fin_filas><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>111</LINE></fin_filas>
+  <peso_col0><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>205</LINE></peso_col0>
+  <peso_col1><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>208</LINE></peso_col1>
+  <peso_col2><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>211</LINE></peso_col2>
+  <peso_col3><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>214</LINE></peso_col3>
+  <fin_cols><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>140</LINE></fin_cols>
+  <enviar><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>183</LINE></enviar>
+  <inc_contador><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>171</LINE></inc_contador>
+  <A_N><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>158</LINE></A_N>
+  <O_Z><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>160</LINE></O_Z>
+  <suma_peso><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>161</LINE></suma_peso>
+  <llenar><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>340</LINE></llenar>
+  <letras><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>308</LINE></letras>
+  <dec_contador><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>178</LINE></dec_contador>
+  <bienvenido><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>220</LINE></bienvenido>
+  <error><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>221</LINE></error>
+  <msj_bienvenido><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>237</LINE></msj_bienvenido>
+  <msj_error><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>265</LINE></msj_error>
+  <salir1><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>282</LINE></salir1>
+  <salir><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>346</LINE></salir>
+  <lazo2><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>352</LINE></lazo2>
+  <lazo1><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>353</LINE></lazo1>
+  <lazo5><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>368</LINE></lazo5>
+  <lazo4><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>369</LINE></lazo4>
+  <lazo3><FILE>C:\Users\eliza\Desktop\Micros\programas\Proyecto Prueba\Proyecto Prueba\main.asm</FILE><LINE>370</LINE></lazo3>
+ </LABELS>
+</ASSEMBLER_INFO>
