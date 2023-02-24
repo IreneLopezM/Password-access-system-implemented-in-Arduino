@@ -1,0 +1,62 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\eliza\Desktop\prueba\arduino\arduino\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\Debug\arduino.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>arduino.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>arduino.map</FILE>
+  <FILE>arduino.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>20</LINE></reset>
+  <recibe><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>214</LINE></recibe>
+  <delay_100m><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>356</LINE></delay_100m>
+  <LCD><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>210</LINE></LCD>
+  <lazo><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>46</LINE></lazo>
+  <delay_10m><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>340</LINE></delay_10m>
+  <conf_LCD><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>275</LINE></conf_LCD>
+  <main><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>70</LINE></main>
+  <preguntar><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>88</LINE></preguntar>
+  <peso_fila0><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>183</LINE></peso_fila0>
+  <peso_fila1><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>186</LINE></peso_fila1>
+  <peso_fila2><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>189</LINE></peso_fila2>
+  <peso_fila3><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>192</LINE></peso_fila3>
+  <fin_filas><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>102</LINE></fin_filas>
+  <peso_col0><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>196</LINE></peso_col0>
+  <peso_col1><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>199</LINE></peso_col1>
+  <peso_col2><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>202</LINE></peso_col2>
+  <peso_col3><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>205</LINE></peso_col3>
+  <fin_cols><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>131</LINE></fin_cols>
+  <enviar><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>174</LINE></enviar>
+  <inc_contador><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>162</LINE></inc_contador>
+  <A_N><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>149</LINE></A_N>
+  <O_Z><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>151</LINE></O_Z>
+  <suma_peso><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>152</LINE></suma_peso>
+  <llenar><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>329</LINE></llenar>
+  <letras><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>297</LINE></letras>
+  <dec_contador><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>169</LINE></dec_contador>
+  <msj_bienvenido><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>226</LINE></msj_bienvenido>
+  <msj_error><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>254</LINE></msj_error>
+  <salir1><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>271</LINE></salir1>
+  <salir><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>335</LINE></salir>
+  <lazo2><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>341</LINE></lazo2>
+  <lazo1><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>342</LINE></lazo1>
+  <lazo5><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>357</LINE></lazo5>
+  <lazo4><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>358</LINE></lazo4>
+  <lazo3><FILE>C:\Users\eliza\Desktop\prueba\arduino\arduino\main.asm</FILE><LINE>359</LINE></lazo3>
+ </LABELS>
+</ASSEMBLER_INFO>
