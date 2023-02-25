@@ -63,8 +63,8 @@ It should look similar to this screenshot.
 <br>
 
 > ### 2.4 Python
-1. Download the .py and .db files 
-2. In the terminal, run the "main.py" file `python main.py`
+1. Download the "python" folder. 
+2. In the terminal, run the "main.py" file. `python main.py`
 
 <br>
 
