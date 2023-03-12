@@ -1,12 +1,12 @@
 # Password access system implemented in Arduino
 ## Index
-1. Project
-2. Run and deploy
-   - 2.1. Setup
-   - 2.2. Build the circuit
-   - 2.3. Arduino setup
-   - 2.4. Python
-   - 2.5. Try the project 
+1. [Project](https://github.com/IreneLopezM/Password-access-system-implemented-in-Arduino#1-project)
+2. [Run and deploy](https://github.com/IreneLopezM/Password-access-system-implemented-in-Arduino#2-run-and-deploy)
+   - 2.1. [Setup](https://github.com/IreneLopezM/Password-access-system-implemented-in-Arduino#21-setup)
+   - 2.2. [Build the circuit](https://github.com/IreneLopezM/Password-access-system-implemented-in-Arduino#22-build-the-circuit)
+   - 2.3. [Arduino setup](https://github.com/IreneLopezM/Password-access-system-implemented-in-Arduino#23-arduino-setup)
+   - 2.4. [Python](https://github.com/IreneLopezM/Password-access-system-implemented-in-Arduino#24-python)
+   - 2.5. [Try the project](https://github.com/IreneLopezM/Password-access-system-implemented-in-Arduino#25-try-the-project)
 
 
 ## 1. Project 
